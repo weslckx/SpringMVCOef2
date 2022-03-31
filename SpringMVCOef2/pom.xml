@@ -10,7 +10,7 @@
     <name>SpringMVCOef2</name>
 
     <properties>
-        <springframework.version>4.3.25.RELEASE</springframework.version>
+        <springframework.version>5.3.18</springframework.version>
         <springsecurity.version>4.2.13.RELEASE</springsecurity.version>
         <hibernate.version>4.3.11.Final</hibernate.version>
         <mysql.version>8.0.18</mysql.version>
